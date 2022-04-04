@@ -27,6 +27,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: build dokcer
-        run: docker build ./my-project
+        run: docker build my-project
 
      
